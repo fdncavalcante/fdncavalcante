@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Fernanda, Full Stack Developer.
+I'm Fernanda, Full Stack Developer Jr.
 
 <!--
 **fdncavalcante/fdncavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
